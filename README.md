@@ -2,55 +2,58 @@
 
 ### Full-Stack Developer | React.js • FastAPI • Spring Boot • PostgreSQL
 
-I build modern, responsive, and practical web applications that turn ideas into real products.
+I build modern, responsive, and practical web applications that turn ideas into real digital products.
 
-My focus is on creating clean user experiences, reliable backend APIs, and database-driven applications for businesses, startups, and freelance clients.
+I enjoy working across the stack — from designing user-friendly interfaces to developing backend APIs, connecting databases, and deploying applications.
 
 ---
 
-## 🚀 What I Do
+## 👨‍💻 About Me
 
-- Build modern web applications with React.js, Next.js, and Tailwind CSS
-- Develop backend APIs with FastAPI and Spring Boot
-- Build database-driven applications with PostgreSQL and MySQL
-- Create responsive and user-friendly interfaces
-- Integrate REST APIs, third-party services, and business workflows
-- Deploy and maintain web applications
-- Turn business requirements and ideas into working digital products
+- 💻 Full-Stack Developer focused on modern web technologies
+- 🚀 Experience building and deploying real-world web applications
+- 🤝 Freelance experience working with business clients
+- 🧩 Interested in building scalable and maintainable software
+- 🤖 Exploring AI-powered applications and intelligent product features
+- 🌱 Continuously improving my development and problem-solving skills
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Frontend
+
 React.js • Next.js • JavaScript • TypeScript • Tailwind CSS
 
 ### Backend
+
 FastAPI • Python • Spring Boot • Java • REST APIs
 
 ### Database
+
 PostgreSQL • MySQL • MongoDB
 
 ### Tools & Platforms
+
 Git • GitHub • Docker • Firebase • Vercel
 
 ---
 
-## ⭐ Featured Projects
+## 🚀 Featured Projects
 
 ### 💙 LoveLens AI
 
-An AI-powered dating platform focused on intelligent matching and meaningful user experiences.
+An AI-powered dating platform focused on intelligent matching and personalized user experiences.
 
-**Focus:** AI features • User experience • Full-stack development • API integration
+**Focus:** AI features • Full-stack development • API integration • User experience
 
 ---
 
-### ☀️ Solar Website — Freelance Project
+### ☀️ Solar Website — Freelance Client Project
 
-A professional website developed for **Rishabh Enterprises** as a freelance project.
+A professional business website developed for **Rishabh Enterprises** as a freelance project.
 
-I worked on the website development and successfully deployed the project, with a focus on a modern responsive interface and business-focused user experience.
+I worked on the development and successfully deployed the website, focusing on a modern responsive interface and a practical business-oriented user experience.
 
 **Highlights:**
 - Responsive design
@@ -59,13 +62,13 @@ I worked on the website development and successfully deployed the project, with 
 - Contact functionality
 - Production deployment
 
-**Type:** Freelance Client Project
+**Type:** Freelance / Client Project
 
 ---
 
 ### 🎓 Student Attendance System
 
-A full-stack application designed to manage and track student attendance digitally.
+A full-stack application designed to digitally manage and track student attendance.
 
 **Focus:** Full-stack development • Database management • Attendance workflows
 
@@ -75,13 +78,13 @@ A full-stack application designed to manage and track student attendance digital
 
 A payroll calculation application designed to handle weekly pay calculations, deductions, overtime, expenses, and advance repayments.
 
-**Focus:** Business logic • Calculations • Backend development
+**Focus:** Business logic • Calculations • Application development
 
 ---
 
 ## 💼 Open To
 
-I'm currently open to:
+I'm currently interested in:
 
 - Full-time Full-Stack Developer opportunities
 - Backend Developer opportunities
@@ -91,18 +94,22 @@ I'm currently open to:
 
 ---
 
-## 📈 Currently Building
+## 📚 Currently Learning & Exploring
 
-Exploring AI-powered applications and full-stack products that solve practical, real-world problems.
+- Advanced backend development
+- System design and scalable architectures
+- AI integration in web applications
+- Cloud deployment and DevOps practices
+- Writing cleaner and more maintainable code
 
 ---
 
 ## 📫 Let's Connect
 
-**Email:** hridaysaluja2@gmail.com
+📧 **Email:** hridaysaluja2@gmail.com
 
-**GitHub:** [@hriday-bit](https://github.com/hriday-bit)
+💻 **GitHub:** [@hriday-bit](https://github.com/hriday-bit)
 
 ---
 
-### ⚡ Build. Learn. Ship. Improve.
+### ⚡ Build • Learn • Ship • Improve
