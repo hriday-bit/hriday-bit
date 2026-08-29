@@ -4,18 +4,18 @@
 
 I build **production-focused full-stack applications** using React and FastAPI, with a growing focus on **AI-powered products, backend engineering, and scalable systems**.
 
-I enjoy taking products from idea to deployment — building responsive interfaces, REST APIs, database-backed applications, third-party integrations, and reliable backend systems.
+I enjoy taking products from idea to deployment — building responsive interfaces, REST APIs, database-backed systems, third-party integrations, and production deployments.
 
 ---
 
 ## 👨‍💻 About Me
 
 * 💻 Building primarily with **React.js, FastAPI, Python, and PostgreSQL**
+* 🤖 Exploring **Generative AI integrations and AI-powered product features**
 * 🚀 Experience building and deploying **production web applications**
 * 🤝 Freelance experience developing applications for real business clients
-* 🤖 Exploring **Generative AI integrations and AI-powered products**
-* ⚙️ Interested in **backend engineering, APIs, databases, concurrency, and system design**
-* 🧠 Continuously improving my understanding of scalable and maintainable software architecture
+* ⚙️ Interested in **backend engineering, APIs, databases, reliability, and system design**
+* 🧠 Continuously improving my knowledge of scalable application architecture and software engineering
 
 ---
 
@@ -29,17 +29,17 @@ I enjoy taking products from idea to deployment — building responsive interfac
 
 **FastAPI • Python • REST APIs • Spring Boot • Java • NestJS**
 
-### Databases & Data
+### Databases
 
-**PostgreSQL • MySQL • Redis • SQLAlchemy • Prisma**
+**PostgreSQL • MySQL • SQLite • Prisma • SQLAlchemy**
 
 ### Tools & Deployment
 
-**Git • GitHub • Docker • Vercel • CI/CD • Pytest**
+**Git • GitHub • Docker • Vercel • CI/CD**
 
 ### Currently Exploring
 
-**Generative AI • System Design • Backend Scalability • Distributed Systems**
+**Generative AI • System Design • Redis • Scalable Backend Architecture**
 
 ---
 
@@ -47,22 +47,21 @@ I enjoy taking products from idea to deployment — building responsive interfac
 
 ## ☀️ [Solar Website — Freelance Client Project](https://github.com/hriday-bit/solar-website)
 
-A **deployed production website** developed for **Rishabh Enterprises** as a freelance client project.
+Production business website developed for **Rishabh Enterprises** as a freelance client project.
 
-I designed, developed, and deployed the full-stack application with a focus on responsive design, performance, modern interactions, and business functionality.
+Built and deployed a full-stack application focused on responsive design, performance, business functionality, and modern user experience.
 
 **Tech:** React • FastAPI • PostgreSQL
 
-### Highlights
+**Highlights:**
 
 * Responsive React frontend
 * FastAPI backend
 * PostgreSQL database
-* Scroll-based canvas animation system
+* Scroll-based animation system
 * WhatsApp integration
-* Contact form with backend handling
+* Contact form functionality
 * Google Maps integration
-* Performance-focused frontend
 * Production deployment
 
 **Type:** Freelance / Client Project
@@ -71,63 +70,44 @@ I designed, developed, and deployed the full-stack application with a focus on r
 
 ## 💼 [Hriday Portfolio](https://github.com/hriday-bit/hriday-portfolio)
 
-My **deployed full-stack developer portfolio** showcasing my projects, development experience, technical skills, and client work.
+My personal full-stack developer portfolio built to showcase my development work, projects, experience, and technical skills.
 
 **Tech:** React • TypeScript • Tailwind CSS • FastAPI
 
-### Highlights
-
-* Responsive React interface
-* FastAPI backend
-* REST API integration
-* Project and experience showcase
-* Contact functionality
-* Production deployment
-
-**Focus:** Full-Stack Architecture • REST APIs • Responsive UI • Personal Branding
+**Focus:** Full-stack architecture • REST APIs • Responsive UI • Production deployment
 
 ---
 
-## 🎟️ FlashSeat — High-Concurrency Ticket Booking System
+## ⚙️ [CarbonCrunch — Fault-Tolerant Event Processor](https://github.com/hriday-bit/CarbonCrunch_Fault_Tolerant_Event_Processor)
 
-A ticket-booking system designed around a challenging concurrency scenario:
+A fault-tolerant event-processing system designed to safely process unreliable and duplicate client events while maintaining data consistency during failures.
 
-**5,000 users competing for the last 100 tickets.**
+**Tech:** FastAPI • Python • SQLite • React • Vite
 
-FlashSeat focuses on solving backend engineering problems involving **seat contention, concurrent reservations, transaction safety, temporary locking, payment workflows, and system reliability**.
+**Highlights:**
 
-**Tech:** React • FastAPI • PostgreSQL • Redis • SQLAlchemy • Docker • Pytest
+* Normalizes inconsistent incoming event payloads
+* Idempotent event processing to prevent duplicate counting
+* Supports client-provided idempotency keys
+* SHA-256 based deterministic fallback deduplication
+* Database-level uniqueness protection against race conditions
+* Transaction-safe processing to prevent partial database writes
+* Safe retry handling after failed or interrupted requests
+* Event aggregation and processed-event tracking
 
-### Engineering Highlights
-
-* Redis-based temporary seat locking
-* Atomic lock acquisition with `SET NX EX`
-* PostgreSQL transactions and row-level locking
-* Protection against duplicate seat reservations
-* Idempotent reservation workflows
-* Reservation expiration and cancellation
-* Secure lock ownership using unique tokens
-* Concurrent reservation testing
-* Payment success and failure lifecycle handling
-* JWT authentication
-* Role-based authorization
-* Alembic database migrations
-* Dockerized application setup
-* API health and readiness checks
-
-**Focus:** Backend Engineering • Concurrency • System Design • Reliability
+**Focus:** Backend reliability • Fault tolerance • Idempotency • Database transactions • API design
 
 ---
 
 ## 💰 [UK CIS Payroll Calculator](https://github.com/hriday-bit/uk-payroll-calculator)
 
-A full-stack payroll application implementing real UK CIS weekly payroll business logic.
+A full-stack payroll application implementing UK CIS weekly payroll business logic.
 
-The system handles standard working hours, overtime, CIS deductions, materials, expenses, advance repayments, and final worker pay calculations.
+The application handles standard hours, overtime calculations, CIS deductions, materials and expenses, advance repayments, and final worker pay.
 
 **Tech:** Next.js • NestJS • TypeScript • Prisma
 
-**Focus:** Backend APIs • Business Logic • Financial Calculations • Data Modelling
+**Focus:** Backend APIs • Business logic • Financial calculations • Data modelling
 
 ---
 
@@ -135,7 +115,7 @@ The system handles standard working hours, overtime, CIS deductions, materials, 
 
 An AI-powered dating platform focused on **compatibility, trust, meaningful conversations, and personalized user experiences**.
 
-**Focus:** Generative AI • Full-Stack Development • AI Product Features • User Experience
+**Focus:** Generative AI • Full-stack development • AI-powered product features • User experience
 
 ---
 
@@ -143,9 +123,9 @@ An AI-powered dating platform focused on **compatibility, trust, meaningful conv
 
 ### 🎓 [Student Attendance System](https://github.com/hriday-bit/Student-Attendance-System)
 
-A full-stack attendance management system for recording, tracking, and managing student attendance digitally.
+A full-stack attendance management application for recording, tracking, and managing student attendance digitally.
 
-**Focus:** CRUD Operations • Database Management • Attendance Workflows
+**Focus:** CRUD operations • Database management • Attendance workflows • Full-stack development
 
 ---
 
@@ -157,11 +137,10 @@ I'm currently strengthening my skills in:
 * **Generative AI integration**
 * Backend architecture and API design
 * PostgreSQL and database design
-* Redis and concurrency control
+* Reliability and fault-tolerant backend patterns
 * System design
 * Docker and deployment
-* Automated testing
-* Clean and maintainable software architecture
+* Testing and maintainable software architecture
 
 ---
 
@@ -171,15 +150,12 @@ I'm interested in:
 
 * **Junior / Entry-Level Full-Stack Developer roles**
 * **Backend Developer roles**
-* **Software Developer / Software Engineer roles**
-* Frontend Developer roles
+* **Frontend Developer roles**
 * Software Development internships
 * AI-powered web application development
 * Freelance web development projects
 
-Especially opportunities involving:
-
-**React • FastAPI • Python • PostgreSQL • REST APIs • Generative AI**
+Especially roles where I can work with **React, FastAPI, Python, APIs, PostgreSQL, and Generative AI**.
 
 ---
 
