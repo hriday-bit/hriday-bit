@@ -1,21 +1,21 @@
 # Hi, I'm Hriday 👋
 
-### Full-Stack Developer | React • Next.js • FastAPI • TypeScript • PostgreSQL
+### Full-Stack Developer | React.js • FastAPI • GenAI • PostgreSQL
 
-I build modern, responsive, and production-focused web applications with a strong interest in **full-stack development, backend engineering, and AI-powered products**.
+I build **production-focused full-stack applications** using React and FastAPI, with a growing focus on **AI-powered products, backend engineering, and scalable systems**.
 
-I enjoy turning ideas into working products — from designing responsive interfaces and building REST APIs to integrating databases, connecting third-party services, and deploying applications.
+I enjoy taking products from idea to deployment — building responsive interfaces, REST APIs, database-backed applications, third-party integrations, and reliable backend systems.
 
 ---
 
 ## 👨‍💻 About Me
 
-* 💻 Full-Stack Developer focused on **React, Next.js, FastAPI, and TypeScript**
-* 🚀 Experienced in building and deploying **real-world web applications**
-* 🤝 Freelance experience developing **business websites for clients**
-* 🧠 Interested in **AI-powered applications and intelligent product features**
-* ⚙️ Comfortable working across **frontend, backend, databases, and deployment**
-* 🌱 Continuously improving my skills in **backend architecture, system design, and scalable applications**
+* 💻 Building primarily with **React.js, FastAPI, Python, and PostgreSQL**
+* 🚀 Experience building and deploying **production web applications**
+* 🤝 Freelance experience developing applications for real business clients
+* 🤖 Exploring **Generative AI integrations and AI-powered products**
+* ⚙️ Interested in **backend engineering, APIs, databases, concurrency, and system design**
+* 🧠 Continuously improving my understanding of scalable and maintainable software architecture
 
 ---
 
@@ -23,110 +23,173 @@ I enjoy turning ideas into working products — from designing responsive interf
 
 ### Frontend
 
-**React.js • Next.js • TypeScript • JavaScript • Tailwind CSS**
+**React.js • TypeScript • JavaScript • Next.js • Tailwind CSS**
 
 ### Backend
 
-**FastAPI • Python • Spring Boot • Java • REST APIs**
+**FastAPI • Python • REST APIs • Spring Boot • Java • NestJS**
 
-### Database
+### Databases & Data
 
-**PostgreSQL • MySQL • MongoDB**
+**PostgreSQL • MySQL • Redis • SQLAlchemy • Prisma**
 
-### Tools & Platforms
+### Tools & Deployment
 
-**Git • GitHub • Docker • Firebase • Vercel**
+**Git • GitHub • Docker • Vercel • CI/CD • Pytest**
 
----
+### Currently Exploring
 
-## 🚀 Featured Projects
-
-### 💙 [LoveLens AI](https://github.com/hriday-bit/lovelens-ai)
-
-An AI-powered dating platform focused on **compatibility, trust, meaningful conversations, and personalized user experiences**.
-
-**Focus:** AI integration • Full-stack development • Matching systems • User experience
+**Generative AI • System Design • Backend Scalability • Distributed Systems**
 
 ---
 
-### 💼 [Hriday Portfolio](https://github.com/hriday-bit/hriday-portfolio)
+# 🚀 Featured Projects
 
-My personal full-stack developer portfolio built to showcase my projects, technical skills, experience, and development work.
+## ☀️ [Solar Website — Freelance Client Project](https://github.com/hriday-bit/solar-website)
 
-**Tech:** React • TypeScript • Tailwind CSS • FastAPI
+A **deployed production website** developed for **Rishabh Enterprises** as a freelance client project.
 
-**Focus:** Full-stack architecture • REST APIs • Responsive UI • Portfolio development
+I designed, developed, and deployed the full-stack application with a focus on responsive design, performance, modern interactions, and business functionality.
 
----
+**Tech:** React • FastAPI • PostgreSQL
 
-### ☀️ [Solar Website — Freelance Client Project](https://github.com/hriday-bit/solar-website)
+### Highlights
 
-A production business website developed for **Rishabh Enterprises** as a freelance project.
-
-I designed, developed, and deployed the website with a focus on performance, responsive design, modern animations, and business-oriented functionality.
-
-**Highlights:**
-
-* React-based responsive frontend
+* Responsive React frontend
 * FastAPI backend
 * PostgreSQL database
-* Scroll-based animation system
+* Scroll-based canvas animation system
 * WhatsApp integration
-* Contact form functionality
+* Contact form with backend handling
 * Google Maps integration
+* Performance-focused frontend
 * Production deployment
 
 **Type:** Freelance / Client Project
 
 ---
 
-### 💰 [UK Payroll Calculator](https://github.com/hriday-bit/uk-payroll-calculator)
+## 💼 [Hriday Portfolio](https://github.com/hriday-bit/hriday-portfolio)
 
-A full-stack payroll application designed to calculate weekly worker pay, including overtime, CIS deductions, materials, expenses, and advance repayments.
+My **deployed full-stack developer portfolio** showcasing my projects, development experience, technical skills, and client work.
 
-**Tech:** Next.js • NestJS • Prisma • TypeScript
+**Tech:** React • TypeScript • Tailwind CSS • FastAPI
 
-**Focus:** Business logic • Financial calculations • Backend APIs • Full-stack development
+### Highlights
+
+* Responsive React interface
+* FastAPI backend
+* REST API integration
+* Project and experience showcase
+* Contact functionality
+* Production deployment
+
+**Focus:** Full-Stack Architecture • REST APIs • Responsive UI • Personal Branding
 
 ---
+
+## 🎟️ FlashSeat — High-Concurrency Ticket Booking System
+
+A ticket-booking system designed around a challenging concurrency scenario:
+
+**5,000 users competing for the last 100 tickets.**
+
+FlashSeat focuses on solving backend engineering problems involving **seat contention, concurrent reservations, transaction safety, temporary locking, payment workflows, and system reliability**.
+
+**Tech:** React • FastAPI • PostgreSQL • Redis • SQLAlchemy • Docker • Pytest
+
+### Engineering Highlights
+
+* Redis-based temporary seat locking
+* Atomic lock acquisition with `SET NX EX`
+* PostgreSQL transactions and row-level locking
+* Protection against duplicate seat reservations
+* Idempotent reservation workflows
+* Reservation expiration and cancellation
+* Secure lock ownership using unique tokens
+* Concurrent reservation testing
+* Payment success and failure lifecycle handling
+* JWT authentication
+* Role-based authorization
+* Alembic database migrations
+* Dockerized application setup
+* API health and readiness checks
+
+**Focus:** Backend Engineering • Concurrency • System Design • Reliability
+
+---
+
+## 💰 [UK CIS Payroll Calculator](https://github.com/hriday-bit/uk-payroll-calculator)
+
+A full-stack payroll application implementing real UK CIS weekly payroll business logic.
+
+The system handles standard working hours, overtime, CIS deductions, materials, expenses, advance repayments, and final worker pay calculations.
+
+**Tech:** Next.js • NestJS • TypeScript • Prisma
+
+**Focus:** Backend APIs • Business Logic • Financial Calculations • Data Modelling
+
+---
+
+## 💙 [LoveLens AI](https://github.com/hriday-bit/lovelens-ai)
+
+An AI-powered dating platform focused on **compatibility, trust, meaningful conversations, and personalized user experiences**.
+
+**Focus:** Generative AI • Full-Stack Development • AI Product Features • User Experience
+
+---
+
+## 🧩 Other Projects
 
 ### 🎓 [Student Attendance System](https://github.com/hriday-bit/Student-Attendance-System)
 
-A full-stack student attendance management system designed to record, track, and manage attendance digitally.
+A full-stack attendance management system for recording, tracking, and managing student attendance digitally.
 
-**Focus:** Full-stack development • Database management • Attendance workflows
-
----
-
-## 💼 Open To
-
-I'm interested in opportunities involving:
-
-* Full-Stack Development
-* Frontend Development
-* Backend Development
-* AI-powered web applications
-* Freelance web development
-* Startup and product development
+**Focus:** CRUD Operations • Database Management • Attendance Workflows
 
 ---
 
-## 📚 Currently Learning & Exploring
+# 🎯 Current Focus
 
-* Advanced backend development
-* System design and scalable architectures
-* AI integration in web applications
-* API design and backend optimization
-* Cloud deployment and DevOps practices
+I'm currently strengthening my skills in:
+
+* **React + FastAPI full-stack development**
+* **Generative AI integration**
+* Backend architecture and API design
+* PostgreSQL and database design
+* Redis and concurrency control
+* System design
+* Docker and deployment
+* Automated testing
 * Clean and maintainable software architecture
 
 ---
 
-## 📫 Let's Connect
+# 💼 Open To
+
+I'm interested in:
+
+* **Junior / Entry-Level Full-Stack Developer roles**
+* **Backend Developer roles**
+* **Software Developer / Software Engineer roles**
+* Frontend Developer roles
+* Software Development internships
+* AI-powered web application development
+* Freelance web development projects
+
+Especially opportunities involving:
+
+**React • FastAPI • Python • PostgreSQL • REST APIs • Generative AI**
+
+---
+
+# 📫 Let's Connect
 
 📧 **Email:** [hridaysaluja2@gmail.com](mailto:hridaysaluja2@gmail.com)
 
-💻 **GitHub:** [@hriday-bit](https://github.com/hriday-bit)
+💻 **GitHub:** [github.com/hriday-bit](https://github.com/hriday-bit)
+
+🔗 **LinkedIn:** [linkedin.com/in/hriday-saluja-1a2562384](https://www.linkedin.com/in/hriday-saluja-1a2562384/)
 
 ---
 
